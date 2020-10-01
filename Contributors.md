@@ -1,5 +1,4 @@
 ﻿# Contributors
-- [technophile9](https://github.com/tecnophile9]
 
 - [aiden](https://github.com/acdlbs)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
@@ -7,6 +6,7 @@
 - [cricri777](https://github.com/cricri777)
 - [sm0rux](https://github.com/sm0rux)
 -[generationXcode](https://github.com/generationXcode)
+- [technophile9](https://github.com/tecnophile9]
 - [manojranak1](https://github.com/manojranak1)
 - [Ryan Wilson](https://github.com/rwils83)
 - [Siddharth Kundu](https://github.com/sid995)
